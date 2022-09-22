@@ -1,4 +1,4 @@
-package module1.binaryTreeForder;
+package module2.binaryTreeForder;
 
 import java.util.List;
 

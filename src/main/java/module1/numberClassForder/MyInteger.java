@@ -19,6 +19,6 @@ public class MyInteger extends MyRationalNumber{
 
     @Override
     MyNumber plus (MyNumber myNumber) {
-
+        return null;
     }
 }
